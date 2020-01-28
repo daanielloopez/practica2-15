@@ -1,0 +1,57 @@
+body {
+    margin: 0 20px;
+    background-color: hsl(54, 56%, 82%);
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    overflow: auto;
+    background-color: white;
+  }
+  
+  section {
+    float: left;
+    width: 34rem;
+    border:  hsl(43, 64%, 65%) 5px solid;
+    border-top: none;
+    margin: 10px;
+    background-color: hsl(54, 63%, 62%);
+  }
+  
+  h2 {
+    margin: 0;
+    background-color: hsl(43, 85%, 54%);
+  }
+  
+  article {
+    float: left;
+    width: 15rem;
+    border: hsl(28, 87%, 63%) 5px solid;
+    border-top: none;
+    margin: 10px;
+    background-color: hsl(49, 100%, 48%);
+  }
+  
+  h3 {
+    margin: 0;
+    padding-left: 5px;
+    background-color: hsl(28, 100%, 50%);
+    color: white;
+  }
+  
+  p {
+    margin: 5px;
+  }
+  
+  footer {
+    clear: both;
+  }
+  
+  address {
+    margin: 10px 0;
+    font-size: 0.75rem;
+  }
